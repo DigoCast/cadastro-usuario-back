@@ -66,4 +66,3 @@ app.delete('/usuarios/:id', async (req, res) =>{
 app.listen(3000)
 // Rotas precisam de - Metodo HTTP
 // Precisam de Endereço - ex : www.dsepipkdaps.com
-// mongo db = diego Diego_2006
